@@ -43,7 +43,7 @@ Meu projeto:
 │  │   └── 📄 recent-posts.tsx \
 │  ├── 📄 index.css \
 │  ├── 📄 main.tsx \
-│  ├── 📄 services \
+│  ├── 📂 services \
 │  └── 📄 vite-env.d.ts \
 ├── 📄 tsconfig.json \
 ├── 📄 tsconfig.node.json \
