@@ -6,24 +6,24 @@ Esse é um projeto inspirado em um dos desafios da rocketseat que você pode ver
 
 ## 📍Diferenças do projeto original:
 Original:
-- Estrutura de pastas:
-📂 .
-├── 📂 assets
-│  ├── 🖼️ briefcase.svg
-│  ├── 🖼️ favicon.ico
-│  ├── 🖼️ folder.svg
-│  ├── 🖼️ git-branch.svg
-│  ├── 🖼️ github.svg
-│  ├── 🖼️ globe.svg
-│  ├── 🖼️ instagram.svg
-│  ├── 🖼️ linkedin.svg
-│  ├── 🖼️ mail.svg
-│  ├── 🖼️ map-pin.svg
-│  ├── 🖼️ star.svg
-│  └── 🖼️ twitter.svg
-├── 📄 index.html
-├── 📄 README.md
-└── 📄 styles.css
+- Estrutura de pastas: \
+📂 . \
+├── 📂 assets \
+│  ├── 🖼️ briefcase.svg \
+│  ├── 🖼️ favicon.ico \
+│  ├── 🖼️ folder.svg \
+│  ├── 🖼️ git-branch.svg \
+│  ├── 🖼️ github.svg \
+│  ├── 🖼️ globe.svg \
+│  ├── 🖼️ instagram.svg \
+│  ├── 🖼️ linkedin.svg \
+│  ├── 🖼️ mail.svg \
+│  ├── 🖼️ map-pin.svg \
+│  ├── 🖼️ star.svg \
+│  └── 🖼️ twitter.svg \
+├── 📄 index.html \
+├── 📄 README.md \
+└── 📄 styles.css \
 
 - Feito com HTML e CSS puro.
 
