@@ -23,30 +23,30 @@ Original:
 │  └── 🖼️ twitter.svg \
 ├── 📄 index.html \
 ├── 📄 README.md \
-└── 📄 styles.css \
+└── 📄 styles.css
 
 - Feito com HTML e CSS puro.
 
 Meu projeto:
-- Estrutura de pastas:
-📂 ...
-── 📄 image.png
-── 📄 index.html
-── 📄 package-lock.json
-── 📄 package.json
-── 📄 Readme.md
-├── 📂 src
-  ├── 📄 app.tsx
-│  ├── 📂 components
-│      ├── 📄 my-profile.tsx
-│      ├── 📄 my-repositories.tsx
-       └── 📄 recent-posts.tsx
-│  ├── 📄 index.css
-│  ├── 📄 main.tsx
-│  ├── 📄 services
-│  └── 📄 vite-env.d.ts
-├── 📄 tsconfig.json
-├── 📄 tsconfig.node.json
+- Estrutura de pastas: \
+📂 ... \
+── 📄 image.png \
+── 📄 index.html \
+── 📄 package-lock.json \
+── 📄 package.json \
+── 📄 Readme.md \
+├── 📂 src \
+  ├── 📄 app.tsx \
+│  ├── 📂 components \
+│      ├── 📄 my-profile.tsx \
+│      ├── 📄 my-repositories.tsx \
+       └── 📄 recent-posts.tsx \
+│  ├── 📄 index.css \
+│  ├── 📄 main.tsx \
+│  ├── 📄 services \
+│  └── 📄 vite-env.d.ts \
+├── 📄 tsconfig.json \
+├── 📄 tsconfig.node.json \
 └── 📄 vite.config.ts
 - Usei **vite** para o ambiente de desenvolvimento do projeto.
 - Componentização com **ReactJS** e **Typescript**.
