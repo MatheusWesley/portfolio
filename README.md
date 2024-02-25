@@ -38,9 +38,9 @@ Meu projeto:
 ├── 📂 src \
   ├── 📄 app.tsx \
 │  ├── 📂 components \
-│      ├── 📄 my-profile.tsx \
-│      ├── 📄 my-repositories.tsx \
-│      └── 📄 recent-posts.tsx \
+│  │   ├── 📄 my-profile.tsx \
+│  │   ├── 📄 my-repositories.tsx \
+│  │   └── 📄 recent-posts.tsx \
 │  ├── 📄 index.css \
 │  ├── 📄 main.tsx \
 │  ├── 📄 services \
