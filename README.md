@@ -40,7 +40,7 @@ Meu projeto:
 │  ├── 📂 components \
 │      ├── 📄 my-profile.tsx \
 │      ├── 📄 my-repositories.tsx \
-       └── 📄 recent-posts.tsx \
+│      └── 📄 recent-posts.tsx \
 │  ├── 📄 index.css \
 │  ├── 📄 main.tsx \
 │  ├── 📄 services \
