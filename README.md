@@ -89,7 +89,7 @@ npm run dev
 
 ## 🛠️ Construído com
 
-Mencione as ferramentas que você usou para criar seu projeto
+Projeto feito com:
 
 * [NodeJS](https://nodejs.org/en) - an open-source, cross-platform JavaScript runtime environment.
 * [Vite](https://vitejs.dev/) - Next Generation Frontend Tooling
